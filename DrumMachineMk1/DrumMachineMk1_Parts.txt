@@ -1,0 +1,9 @@
+Arduino Uno x1
+DFPlayer x1
+47 Ohm Resistor x2
+100 Ohm Resistor x2
+220 Ohm Resistor x7
+330 Ohm Resistor x2
+Button x11
+Slide switch x1
+LED x4
