@@ -7,3 +7,5 @@ DFPlayer x1
 Button x11
 Slide switch x1
 LED x4
+BreadBoard x1
+Wire
